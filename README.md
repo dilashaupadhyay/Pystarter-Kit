@@ -18,7 +18,7 @@ Are you new to the world of Python programming? This collection of projects is d
 
 5. **Calculator**:A basic Python program that performs simple arithmetic operations like addition, subtraction, multiplication, and division based on user input.
 
-6.**Hangman Game**:A classic word-guessing game in Python where players attempt to guess a hidden word within a limited number of attempts.
+6. **Hangman Game**:A classic word-guessing game in Python where players attempt to guess a hidden word within a limited number of attempts.
 
 ## Getting Started
 
