@@ -14,7 +14,11 @@ Are you new to the world of Python programming? This collection of projects is d
 
 3. **Math Challenge**: Sharpen your math skills with this project that presents various math problems for you to solve. Using simple arithmetic , this project focuses on strengthening your understanding of mathematics as well as Python.
 
-4. **Word Story Generator**: Unleash your creativity with this word-based story generator. Input a series of words, and watch as the program weaves them into an imaginative and unique story. This project emphasizes string manipulation and creative thinking through programming.
+4. **Word Story Generator**:  Input a series of words, and watch as the program weaves them into an imaginative and unique story. This project emphasizes string manipulation and creative thinking through programming.
+
+5. **Calculator**:A basic Python program that performs simple arithmetic operations like addition, subtraction, multiplication, and division based on user input.
+
+6.**Hangman Game**:A classic word-guessing game in Python where players attempt to guess a hidden word within a limited number of attempts.
 
 ## Getting Started
 
