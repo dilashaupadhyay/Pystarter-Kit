@@ -20,6 +20,10 @@ Are you new to the world of Python programming? This collection of projects is d
 
 6. **Hangman Game**:A classic word-guessing game in Python where players attempt to guess a hidden word within a limited number of attempts.
 
+7. **Fibonacci Sequence Generator**: This Python program generates the Fibonacci sequence up to a specified number of terms.
+
+8. **Factorial Calculator**: This Python program calculates the factorial of a given number.
+
 ## Getting Started
 
 To get started with the projects, make sure you have Python installed on your system. You can download Python from the official website: [Python.org](https://www.python.org/). Clone this repository to your local machine, and you're ready to start exploring and working on the projects.
