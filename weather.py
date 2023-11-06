@@ -24,7 +24,7 @@ def get_weather_data(city_name, api_key):
 
 def main():
     city_name = input("Enter the city name in Nepal: ")
-    api_key = "17ffe84828c6e402782f34e285fb4f1f"  # Replace "YOUR_API_KEY" with your actual OpenWeatherMap API key
+    api_key = "YOUR_API_KEY"  # Replace "YOUR_API_KEY" with your actual OpenWeatherMap API key
     weather_data = get_weather_data(city_name, api_key)
     if weather_data:
         print(f"Weather in {city_name}, Nepal:")
