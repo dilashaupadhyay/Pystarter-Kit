@@ -24,6 +24,8 @@ Are you new to the world of Python programming? This collection of projects is d
 
 8. **Factorial Calculator**: This Python program calculates the factorial of a given number.
 
+9. **Weather App**: A simple application providing real-time weather information for various cities in Nepal, using Python and OpenWeatherMap API.
+
 ## Getting Started
 
 To get started with the projects, make sure you have Python installed on your system. You can download Python from the official website: [Python.org](https://www.python.org/). Clone this repository to your local machine, and you're ready to start exploring and working on the projects.
